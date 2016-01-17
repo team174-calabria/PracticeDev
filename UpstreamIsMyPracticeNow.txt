@@ -1,1 +1,3 @@
 Changed so that I am tracking (?) MyPractice as the upstream branch.
+2. Still tracking remote/origin/MyPractice
+3. Commit this change.  Do not push either.
