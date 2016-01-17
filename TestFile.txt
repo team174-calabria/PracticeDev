@@ -2,3 +2,5 @@ This is a test file.
 1.  Initial add.
 2. First - Edit and commit / push
 3. Second - edit and commit / push
+4. Third - eding and only commit
+5. Forth - edit and append commit.
