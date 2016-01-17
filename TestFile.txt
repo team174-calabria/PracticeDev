@@ -5,3 +5,4 @@ This is a test file.
 4. Third - eding and only commit
 5. Forth - edit and append commit.
 6. Fith - edit and commit / push.  (2 commits to push)
+7.  The big test.  Edit and commit.  Then do an upstream push.
