@@ -1,1 +1,3 @@
 1. Add file.  tracking remote/origin/MyPractice.  commit/push
+2. Edit file.  tracing remote/origin/MyPractice.  commit
+3. Edit file.  tracing remote/origin/MyPractice.  append commit
