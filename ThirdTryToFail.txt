@@ -1,3 +1,9 @@
 1. Add file.  tracking remote/origin/MyPractice.  commit/push
 2. Edit file.  tracing remote/origin/MyPractice.  commit
 3. Edit file.  tracing remote/origin/MyPractice.  append commit
+4. Push to up-stream.
+
+
+
+commit
+switch upstream to master append commit
