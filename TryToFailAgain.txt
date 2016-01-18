@@ -1,3 +1,4 @@
 1. Created file.  Tracking remote/origin/MyPractice.  Commit Push.
 2. Edit file.  Tracking remote/origin/MyPractice.  Commit (do not push.)
 3. Edit file.  Switch branch.  Append/Commit/Push
+4. Edit File.  Commit/Push.
