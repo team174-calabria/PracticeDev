@@ -1,0 +1,10 @@
+Per PJ.
+Local branch (This one)
+Commit but no push.
+Ammed commit.
+*** Merge it into master ***
+Check it in (Push?)
+Weird state.
+
+1. Initial commit.
+2. Ammed commit.
