@@ -13,3 +13,6 @@ Trying again.
 
 1. Initial commit.
 2. Append Commit.
+
+(In the mean time pushed to MyPractice - worked as expected.)
+3. Switched to master.  Commit / push to master.
